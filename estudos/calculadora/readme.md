@@ -1,0 +1,2 @@
+calculadora simples inspirada na calculadora do windows.
+projeto para aprender algumas funções em javascript, e como se utiliza metodos importantes como grid, flexbox e classes em js para usar em outros projetos mais complexos. 
